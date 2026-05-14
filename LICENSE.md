@@ -1,4 +1,4 @@
-# 
+# smart dexscreener sniper bot | simulation-mode + back-running offers the most advanced dexscreener sniper bot, with simulation-mode and back-running. Ideal for professional MEV
 
 
 
